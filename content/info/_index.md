@@ -14,4 +14,4 @@ Once you have found a project idea you like, try to think about how you would im
 A good place for programming help (mainly Python) is the main site: [enchantedcode.co.uk](https://enchantedcode.co.uk/).
 {{< /hint >}}
 
-{{< button relref="/structure" >}}About Project's Structure{{< /button >}}
+{{< button relref="structure" >}}About Project's Structure{{< /button >}}
